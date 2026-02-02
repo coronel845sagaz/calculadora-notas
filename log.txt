@@ -1,0 +1,8 @@
+c3ba046 Añado el readme
+da1e039 Merge branch 'añadir-nota-extra'
+cc55ecf feat: permitir 4 notas en lugar de 3
+5ed7d7b feat: añadir formulario HTML para notas
+e4396d3 feat: implementar cálculo básico de media
+12ce185 style: añadir estilos básicos
+7546765 feat: añadir estructura HTML básica
+899f198 Inicio: crear estructura del proyecto
